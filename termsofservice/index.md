@@ -10,4 +10,6 @@ All your app data: settings, meters, readings and locations you create are store
 ### Any questions?
 If you have any questions about the Privacy Policy, please don’t hesitate to [contact us](mailto:consumeter.io@gmail.com).
 
+---
+
 **Last updated** 23rd of February, 2021
