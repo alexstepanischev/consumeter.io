@@ -1,4 +1,4 @@
 ## Welcome to Consumeter
-[Terms of Use](/termsofuse)
+[Terms of Use](/consumeter.io/termsofuse)
 
-[Privacy Policy](/privacypolicy)
+[Privacy Policy](/consumeter.io/privacypolicy)
